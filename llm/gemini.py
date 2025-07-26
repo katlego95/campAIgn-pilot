@@ -7,6 +7,6 @@ genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
 
 def generate_text(prompt):
     """Generates text using the Gemini API."""
-    model = genai.GenerativeModel('gemini-2.5-flash')
+    model = genai.GenerativeModel('gemini-1.5-flash')
     response = model.generate_content(prompt)
     return response.text
