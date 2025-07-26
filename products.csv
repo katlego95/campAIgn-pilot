@@ -1,0 +1,8 @@
+name,hits,sales,url
+Product A,1000,10,http://example.com/product-a
+Product B,800,15,http://example.com/product-b
+Product C,1200,8,http://example.com/product-c
+Product D,500,20,http://example.com/product-d
+Product E,1500,12,http://example.com/product-e
+Product F,300,5,http://example.com/product-f
+Product G,2000,18,http://example.com/product-g

@@ -1,1 +1,3 @@
-# Empty requirements file
+streamlit
+pandas
+google-generativeai

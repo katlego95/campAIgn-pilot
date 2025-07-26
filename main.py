@@ -1,3 +1,4 @@
-# Entry point for campAIgn-pilot
+from app import main
+
 if __name__ == "__main__":
-    print("campAIgn-pilot main entry") 
+    main()
