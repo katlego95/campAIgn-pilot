@@ -1,0 +1,1 @@
+# Stub for AD Agent embeddings creation 
