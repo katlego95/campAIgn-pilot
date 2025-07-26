@@ -152,7 +152,7 @@ def run_analysis_only():
         agents=[data_analyzer_agent, campaign_manager_agent],
         tasks=[data_analysis_task, campaign_management_task],
         process=Process.sequential,
-        verbose=2
+        verbose=True
     )
     
     print("🔍 Running Analysis and Management Only...")
@@ -171,7 +171,7 @@ def run_campaign_creation_only():
         agents=[campaign_creator_agent],
         tasks=[campaign_creation_task],
         process=Process.sequential,
-        verbose=2
+        verbose=True
     )
     
     print("🎯 Running Campaign Creation Only...")

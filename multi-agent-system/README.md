@@ -212,7 +212,7 @@ analysis_results = run_analysis_only()
 
 ```bash
 # Required: OpenAI API key for Crew AI
-OPENAI_API_KEY=your_key_here
+OPENAI_API_KEY=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
 
 # API Configuration
 STORE_API_BASE_URL=http://localhost:5000/api/store
