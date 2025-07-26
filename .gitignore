@@ -1,0 +1,3 @@
+multi-agent-system/logs/**
+multi-agent-system/__pycache__/**
+multi-agent-system/.env
